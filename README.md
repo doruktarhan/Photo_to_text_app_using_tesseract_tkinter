@@ -10,5 +10,5 @@ For language options, I have included Turkish and English but it can be added mo
 
 Only .png and .jpg images work.
 
-
+For usage in windows, the path of the exe file must be provided to tesseract but not included in my code.
  
